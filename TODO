@@ -1,0 +1,8 @@
+This repository contains simple examples using BioJava. 
+
+The motivation for this repository is to explore the use of BioJava in 
+automation and other Java API's. Simple use cases:
+
+- FASTA, GFF and other file formats interpretation and conversion
+
+- A Jenkins plug-in capable of, among other things, plot protein structures
